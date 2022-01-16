@@ -1,43 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 ,Toffee Live 1
-https://streamer-1.toffeelive.com/live/sports_live_01_720/index.m3u8
-#EXTINF:-1 ,Toffee Live 2
-https://streamer-1.toffeelive.com/live/sports_live_02_720/index.m3u8
-
-#EXTINF:-1 ,Sangshodh TV
-https://streamer-1.toffeelive.com/live/btv_sangshodh_720/index.m3u8
-
-#EXTINF:-1 ,Channel I
-https://streamer-1.toffeelive.com/live/channel_i_720/index.m3u8
-#EXTINF:-1 ,NTV
-https://streamer-1.toffeelive.com/live/ntv_b_720/index.m3u8
-#EXTINF:-1 ,Boishakhi TV
-https://streamer-1.toffeelive.com/live/boishakhi_720/index.m3u8
-#EXTINF:-1 ,Bijoy TV
-https://streamer-1.toffeelive.com/live/bijoy_tv_720/index.m3u8
-#EXTINF:-1 ,Desh TV
-https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
-#EXTINF:-1 ,Ananda TV
-https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
-#EXTINF:-1 ,Bangla TV
-https://streamer-1.toffeelive.com/live/bangla_tv_hd_720/index.m3u8
-#EXTINF:-1 ,MY TV
-https://streamer-1.toffeelive.com/live/my_tv_720/index.m3u8
-
-#EXTINF:-1 ,Channel 24
-https://streamer-1.toffeelive.com/live/channel_24_720/index.m3u8
-#EXTINF:-1 ,DBC News
-https://streamer-1.toffeelive.com/live/dbc_news_720/index.m3u8
-#EXTINF:-1 ,Ekattor TV HD
-https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
-#EXTINF:-1 ,Independant TV
-https://streamer-1.toffeelive.com/live/independent_720/index.m3u8
-#EXTINF:-1 ,News 24 HD
-https://streamer-1.toffeelive.com/live/news24hd_720/index.m3u8
-#EXTINF:-1 ,Somoy TV
-https://streamer-1.toffeelive.com/live/somoy_tv_720/index.m3u8
-
 #EXTINF:-1 ,Akaash Aath
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
 #EXTINF:-1 ,Sony Aath
@@ -50,10 +10,10 @@ https://streamer-1.toffeelive.com/live/colors_b_720/index.m3u8
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 
 #EXTINF:-1 ,Dhoom Music
-https://streamer-1.toffeelive.com/live/dhoom_music_720/index.m3u8
+https://streamer-1.toffeelive.com/live/dhoom_music_576/index.m3u8
 
 #EXTINF:-1 ,& TV
-https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
+https://streamer-1.toffeelive.com/live/&tv_720/index.m3u8
 #EXTINF:-1 ,Zee TV HD
 https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 #EXTINF:-1 ,Sony Entertainment 3
@@ -110,8 +70,7 @@ https://streamer-1.toffeelive.com/live/colors_infinity_hd_720/index.m3u8
 
 #EXTINF:-1 ,Nick JR
 https://streamer-1.toffeelive.com/live/nick_junior_720/index.m3u8
-#EXTINF:-1 ,Nick HD
-https://streamer-1.toffeelive.com/live/nick_hd_720/index.m3u8
+
 #EXTINF:-1 ,Nick
 https://streamer-1.toffeelive.com/live/nick_720/index.m3u8
 
