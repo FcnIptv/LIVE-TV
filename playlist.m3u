@@ -162,6 +162,8 @@ http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="Music", ATN MUSIC 2
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jAVPym4.png", group-title="Music", MUSIC CIPL
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/musiccipl.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/mK7h8O1.png" group-title="Music", DilSe Music
 https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
