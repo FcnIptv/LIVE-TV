@@ -2,102 +2,102 @@
 
 
 #EXTINF:-1 ,Star Jalsha
-http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/908.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="FcnIptv", DBC NEWS
-http://208.86.19.21:80/614.stream/index.m3u8
+http://208.86.19.13:80/614.stream/index.m3u8
 
 #EXTINF:-1 ,Ekattor TV
-http://208.86.19.21:80/604.stream/index.m3u8
+http://208.86.19.13:80/604.stream/index.m3u8
 #EXTINF:-1 , SATV
-http://208.86.19.21:80/613.stream/index.m3u8
+http://208.86.19.13:80/613.stream/index.m3u8
 
 #EXTINF:-1 , GAAN BANGLA
-http://208.86.19.21:80/612.stream/index.m3u8
+http://208.86.19.13:80/612.stream/index.m3u8
 #EXTINF:-1  group-title="FcnIptv",Bangla
-http://208.86.19.21:80/620.stream/index.m3u8
+http://208.86.19.13:80/620.stream/index.m3u8
 #EXTINF:-1 ,Hum tv
-http://208.86.19.21:80/611.stream/index.m3u8
+http://208.86.19.13:80/611.stream/index.m3u8
 #EXTINF:-1 ,Zee Bangla
-http://208.86.19.21/906.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/906.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FcnIptv",Zee Bollywood
-http://208.86.19.21:80/701.stream/index.m3u8
+http://208.86.19.13:80/701.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",&Tv
-http://208.86.19.21:80/703.stream/index.m3u8
+http://208.86.19.13:80/703.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",&Pictures
-http://208.86.19.21:80/705.stream/index.m3u8
+http://208.86.19.13:80/705.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Star bharat
-http://208.86.19.21:80/721.stream/index.m3u8
+http://208.86.19.13:80/721.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",UTV
-http://208.86.19.21:80/723.stream/index.m3u8
+http://208.86.19.13:80/723.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Colors HD
-http://208.86.19.21:80/605.stream/index.m3u8
+http://208.86.19.13:80/605.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Zee tv hd
-http://208.86.19.21:80/606.stream/index.m3u8
+http://208.86.19.13:80/606.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Star Plus HD
-http://208.86.19.21:80/607.stream/index.m3u8
+http://208.86.19.13:80/607.stream/index.m3u8
 #EXTINF:-1 group-title="Star" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha-3
-http://208.86.19.21:80/908.stream/index.m3u8
+http://208.86.19.13:80/908.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Sony max hd
-http://208.86.19.21:80/706.stream/index.m3u8
+http://208.86.19.13:80/706.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Star Gold Select HD
-http://208.86.19.21:80/709.stream/index.m3u8
+http://208.86.19.13:80/709.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Colors Cineplex HD
-http://208.86.19.21:80/735.stream/index.m3u8
+http://208.86.19.13:80/735.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Zee Action
-http://208.86.19.21:80/728.stream/index.m3u8
+http://208.86.19.13:80/728.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Zee Bangla
-http://208.86.19.21:80/906.stream/index.m3u8
+http://208.86.19.13:80/906.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Zee Bangla Cinema
-http://208.86.19.21:80/708.stream/index.m3u8
+http://208.86.19.13:80/708.stream/index.m3u8
 #EXTINF:-1  group-title="FcnIptv",(US)
-http://208.86.19.21:80/111.stream/index.m3u8
+http://208.86.19.13:80/111.stream/index.m3u8
 #EXTINF:-1  group-title="FcnIptv",WION (IN)
-http://208.86.19.21:80/714.stream/index.m3u8
+http://208.86.19.13:80/714.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DvfrYoaM.png",  group-title="FcnIptv",STAR GOLD HD
-http://208.86.19.21:80/717.stream/index.m3u8
+http://208.86.19.13:80/717.stream/index.m3u8
 
 #EXTINF:-1  group-title="FcnIptv",E24 (IN)
-http://208.86.19.21:80/719.stream/index.m3u8
+http://208.86.19.13:80/719.stream/index.m3u8
 #EXTINF:-1  group-title="FcnIptv",ZEE ANMOL CINEMA (IN)
-http://208.86.19.21:80/722.stream/index.m3u8
+http://208.86.19.13:80/722.stream/index.m3u8
 #EXTINF:-1  group-title="FcnIptv",SONY TEN 1 HD
-http://208.86.19.21:80/726.stream/index.m3u8
+http://208.86.19.13:80/726.stream/index.m3u8
 #EXTINF:-1  group-title="FcnIptv",REPUBLIC TV
-http://208.86.19.21:80/727.stream/index.m3u8
+http://208.86.19.13:80/727.stream/index.m3u8
 #EXTINF:-1  group-title="FcnIptv",MUSIC INDIA
-http://208.86.19.21:80/733.stream/index.m3u8
+http://208.86.19.13:80/733.stream/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/oMXI9Dv.png",GAAN BANGLA HD
-http://208.86.19.21:80/612.stream/index.m3u8
+http://208.86.19.13:80/612.stream/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/klVzNhT.png",Sangeet Bangla
-http://208.86.19.21:80/907.stream/index.m3u8
+http://208.86.19.13:80/907.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Sony ten 2
-http://208.86.19.21:80/712.stream/index.m3u8
+http://208.86.19.13:80/712.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Sony Ten 3
-http://208.86.19.21:80/713.stream/index.m3u8
+http://208.86.19.13:80/713.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Star Sports Select 1 HD
-http://208.86.19.21:80/736.stream/index.m3u8
+http://208.86.19.13:80/736.stream/index.m3u8
 #EXTINF:-1 group-title="FcnIptv",Star Sports Select 2 HD
-http://208.86.19.21:80/737.stream/index.m3u8
+http://208.86.19.13:80/737.stream/index.m3u8
 #EXTINF:-1 group-title="Hindi",Zee Cinemas
-http://208.86.19.21/708.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/708.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",&Pictures
-http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/705.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",UTV HD
-http://208.86.19.21/723.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/723.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",B4U Movies
-http://208.86.19.21/831.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/831.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Sony ten 1 SD
-http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/726.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Ten Sports
-http://208.86.19.21:80/711.stream/index.m3u8
+http://208.86.19.13:80/711.stream/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony ten 2
-http://208.86.19.21/712.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/712.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Star sports select 1 hd
-http://208.86.19.21/736.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/736.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Star sports select 2 hd
-http://208.86.19.21/737.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/737.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Star sports 2
-http://208.86.19.21/735.stream/tracks-v1a1/mono.m3u8
+http://208.86.19.13/735.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/2PxMp6d.png" group-title="Hindi",Sony TV
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
@@ -204,160 +204,160 @@ http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,Zee Bollywood
-http://208.86.19.21:80/701.stream/index.m3u8
+http://208.86.19.13:80/701.stream/index.m3u8
 #EXTINF:-1 ,&Tv
-http://208.86.19.21:80/703.stream/index.m3u8
+http://208.86.19.13:80/703.stream/index.m3u8
 #EXTINF:-1,PTC CHAKDE
-http://208.86.19.21:80/704.stream/index.m3u8
+http://208.86.19.13:80/704.stream/index.m3u8
 #EXTINF:-1 ,&Pictures
-http://208.86.19.21:80/705.stream/index.m3u8
+http://208.86.19.13:80/705.stream/index.m3u8
 #EXTINF:-1 ,Sony max hd
-http://208.86.19.21:80/706.stream/index.m3u8
+http://208.86.19.13:80/706.stream/index.m3u8
 #EXTINF:-1,ASTRO CRICKET
-http://208.86.19.21:80/707.stream/index.m3u8
+http://208.86.19.13:80/707.stream/index.m3u8
 #EXTINF:-1 ,Zee Bangla Cinema
-http://208.86.19.21:80/708.stream/index.m3u8
+http://208.86.19.13:80/708.stream/index.m3u8
 #EXTINF:-1 ,Star Gold Select HD
-http://208.86.19.21:80/709.stream/index.m3u8
+http://208.86.19.13:80/709.stream/index.m3u8
 #EXTINF:-1 ,Sony ten 2
-http://208.86.19.21:80/712.stream/index.m3u8
+http://208.86.19.13:80/712.stream/index.m3u8
 #EXTINF:-1 ,Sony Ten 3
-http://208.86.19.21:80/713.stream/index.m3u8
+http://208.86.19.13:80/713.stream/index.m3u8
 #EXTINF:-1 ,Jalsha Movies HD
-http://208.86.19.21:80/716.stream/index.m3u8
+http://208.86.19.13:80/716.stream/index.m3u8
 #EXTINF:-1, STAR GOLD
-http://208.86.19.21:80/717.stream/index.m3u8
+http://208.86.19.13:80/717.stream/index.m3u8
 #EXTINF:-1,E 24
-http://208.86.19.21:80/719.stream/index.m3u8
+http://208.86.19.13:80/719.stream/index.m3u8
 #EXTINF:-1 ,Star bharat
-http://208.86.19.21:80/721.stream/index.m3u8
+http://208.86.19.13:80/721.stream/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
-http://208.86.19.21:80/722.stream/index.m3u8
+http://208.86.19.13:80/722.stream/index.m3u8
 #EXTINF:-1 ,UTV
-http://208.86.19.21:80/723.stream/index.m3u8
+http://208.86.19.13:80/723.stream/index.m3u8
 #EXTINF:-1,PTV SUPER
-http://208.86.19.21:80/725.stream/index.m3u8
+http://208.86.19.13:80/725.stream/index.m3u8
 #EXTINF:-1 ,Sony ten 1
-http://208.86.19.21:80/726.stream/index.m3u8
+http://208.86.19.13:80/726.stream/index.m3u8
 #EXTINF:-1 ,Zee Action
-http://208.86.19.21:80/728.stream/index.m3u8
+http://208.86.19.13:80/728.stream/index.m3u8
 #EXTINF:-1, SONY MAX 2
-http://208.86.19.21:80/730.stream/index.m3u8
+http://208.86.19.13:80/730.stream/index.m3u8
 #EXTINF:-1, MUSIC INDIA
-http://208.86.19.21:80/733.stream/index.m3u8
+http://208.86.19.13:80/733.stream/index.m3u8
 #EXTINF:-1 ,Colors Cineplex HD
-http://208.86.19.21:80/735.stream/index.m3u8
+http://208.86.19.13:80/735.stream/index.m3u8
 #EXTINF:-1 ,Star Sports Select 1 HD
-http://208.86.19.21:80/736.stream/index.m3u8
+http://208.86.19.13:80/736.stream/index.m3u8
 #EXTINF:-1 ,Star Sports Select 2 HD
-http://208.86.19.21:80/737.stream/index.m3u8
+http://208.86.19.13:80/737.stream/index.m3u8
 
 #EXTINF:-1, JAMUNA TV
-http://208.86.19.21:80/805.stream/index.m3u8
+http://208.86.19.13:80/805.stream/index.m3u8
 
 #EXTINF:-1, ATN NEWS
-http://208.86.19.21:80/806.stream/index.m3u8
+http://208.86.19.13:80/806.stream/index.m3u8
 
 
 #EXTINF:-1, PTV HD
-http://208.86.19.21:80/603.stream/index.m3u8
+http://208.86.19.13:80/603.stream/index.m3u8
 #EXTINF:-1 ,Ekattor TV
-http://208.86.19.21:80/604.stream/index.m3u8
+http://208.86.19.13:80/604.stream/index.m3u8
 #EXTINF:-1 ,Colors HD
-http://208.86.19.21:80/605.stream/index.m3u8
+http://208.86.19.13:80/605.stream/index.m3u8
 #EXTINF:-1 ,Zee tv hd
-http://208.86.19.21:80/606.stream/index.m3u8
+http://208.86.19.13:80/606.stream/index.m3u8
 #EXTINF:-1 ,Star Plus HD
-http://208.86.19.21:80/607.stream/index.m3u8
+http://208.86.19.13:80/607.stream/index.m3u8
 #EXTINF:-1, CHANNEL 9
-http://208.86.19.21:80/608.stream/index.m3u8
+http://208.86.19.13:80/608.stream/index.m3u8
 #EXTINF:-1, DEEPTO
-http://208.86.19.21:80/609.stream/index.m3u8
+http://208.86.19.13:80/609.stream/index.m3u8
 #EXTINF:-1 ,PTV Sports
-http://208.86.19.21:80/610.stream/index.m3u8
+http://208.86.19.13:80/610.stream/index.m3u8
 #EXTINF:-1 ,Hum tv
-http://208.86.19.21:80/611.stream/index.m3u8
+http://208.86.19.13:80/611.stream/index.m3u8
 #EXTINF:-1, GAN BANGLA
-http://208.86.19.21:80/612.stream/index.m3u8
+http://208.86.19.13:80/612.stream/index.m3u8
 #EXTINF:-1, SATV HD
-http://208.86.19.21:80/613.stream/index.m3u8
+http://208.86.19.13:80/613.stream/index.m3u8
 #EXTINF:-1, DBC NEWS
-http://208.86.19.21:80/614.stream/index.m3u8
+http://208.86.19.13:80/614.stream/index.m3u8
 #EXTINF:-1, ZEE BANGLA HD
-http://208.86.19.21:80/615.stream/index.m3u8
+http://208.86.19.13:80/615.stream/index.m3u8
 #EXTINF:-1, COLORS BANGLA HD
-http://208.86.19.21:80/616.stream/index.m3u8
+http://208.86.19.13:80/616.stream/index.m3u8
 #EXTINF:-1,JALSHA MOVIES HD
-http://208.86.19.21:80/617.stream/index.m3u8
+http://208.86.19.13:80/617.stream/index.m3u8
 #EXTINF:-1,STAR JALSHA HD
-http://208.86.19.21:80/618.stream/index.m3u8
+http://208.86.19.13:80/618.stream/index.m3u8
 #EXTINF:-1,ETV BANGLA
-http://208.86.19.21:80/620.stream/index.m3u8
+http://208.86.19.13:80/620.stream/index.m3u8
 #EXTINF:-1, MY TV HD
-http://208.86.19.21:80/624.stream/index.m3u8
+http://208.86.19.13:80/624.stream/index.m3u8
 #EXTINF:-1,ATN BANGLA
-http://208.86.19.21:80/626.stream/index.m3u8
+http://208.86.19.13:80/626.stream/index.m3u8
 #EXTINF:-1,BTV WORLD
-http://208.86.19.21:80/627.stream/index.m3u8
+http://208.86.19.13:80/627.stream/index.m3u8
 #EXTINF:-1, DESH TV
-http://208.86.19.21:80/629.stream/index.m3u8
+http://208.86.19.13:80/629.stream/index.m3u8
 
 #EXTINF:-1,AB TV
-http://208.86.19.21:80/501.stream/index.m3u8
+http://208.86.19.13:80/501.stream/index.m3u8
 
 #EXTINF:-1, MEEM TV
-http://208.86.19.21:80/502.stream/index.m3u8
+http://208.86.19.13:80/502.stream/index.m3u8
 
 #EXTINF:-1, TIME TV
-http://208.86.19.21:80/506.stream/index.m3u8
+http://208.86.19.13:80/506.stream/index.m3u8
 
 #EXTINF:-1,DESH BIDESH
-http://208.86.19.21:80/505.stream/index.m3u8
+http://208.86.19.13:80/505.stream/index.m3u8
 
 #EXTINF:-1, B CINEMA TV
-http://208.86.19.21:80/504.stream/index.m3u8
+http://208.86.19.13:80/504.stream/index.m3u8
 
 #EXTINF:-1,ISLAMI
-http://208.86.19.21:80/507.stream/index.m3u8
+http://208.86.19.13:80/507.stream/index.m3u8
 
 #EXTINF:-1MADANI BANGLA
-http://208.86.19.21:80/508.stream/index.m3u8
+http://208.86.19.13:80/508.stream/index.m3u8
 #EXTINF:-1, ATV CANADA
-http://208.86.19.21:80/510.stream/index.m3u8
+http://208.86.19.13:80/510.stream/index.m3u8
 #EXTINF:-1,SUB RANG TV
-http://208.86.19.21:80/511.stream/index.m3u8
+http://208.86.19.13:80/511.stream/index.m3u8
 
 #EXTINF:-1, I TV
-http://208.86.19.21:80/512.stream/index.m3u8
+http://208.86.19.13:80/512.stream/index.m3u8
 #EXTINF:-1, DESHI TV
-http://208.86.19.21:80/514.stream/index.m3u8
+http://208.86.19.13:80/514.stream/index.m3u8
 
 #EXTINF:-1, MAQ TV
-http://208.86.19.21:80/517.stream/index.m3u8
+http://208.86.19.13:80/517.stream/index.m3u8
 
 #EXTINF:-1,THE CHANNEL TV
-http://208.86.19.21:80/518.stream/index.m3u8
+http://208.86.19.13:80/518.stream/index.m3u8
 
 #EXTINF:-1,S TV
-http://208.86.19.21:80/519.stream/index.m3u8
+http://208.86.19.13:80/519.stream/index.m3u8
 #EXTINF:-1, 9XM
-http://208.86.19.21:80/522.stream/index.m3u8
+http://208.86.19.13:80/522.stream/index.m3u8
 
 #EXTINF:-1 AKASH ATT
-http://208.86.19.21:80/902.stream/index.m3u8
+http://208.86.19.13:80/902.stream/index.m3u8
 
 #EXTINF:-1, SUN BANGLA
-http://208.86.19.21:80/903.stream/index.m3u8
+http://208.86.19.13:80/903.stream/index.m3u8
 
 #EXTINF:-1, COLORS BANGLA
-http://208.86.19.21:80/904.stream/index.m3u8
+http://208.86.19.13:80/904.stream/index.m3u8
 
 #EXTINF:-1 ,Zee Bangla
-http://208.86.19.21:80/906.stream/index.m3u8
+http://208.86.19.13:80/906.stream/index.m3u8
 #EXTINF:-1, SONGIT BANGLA
-http://208.86.19.21:80/907.stream/index.m3u8
+http://208.86.19.13:80/907.stream/index.m3u8
 #EXTINF:-1 ,Star Jalsha
-http://208.86.19.21:80/908.stream/index.m3u8
+http://208.86.19.13:80/908.stream/index.m3u8
 
 
 
@@ -394,13 +394,13 @@ http://103.159.4.38:9090/BD-BANGLA-22/index.m3u8
 #EXTINF:-1 ,IN BANGLA 4
 http://103.159.4.38:9090/IN-BANGLA-4/index.m3u8
 #EXTINF:-1,Jalsha Movie
-http://208.86.19.21:80/617.stream/index.m3u8
+http://208.86.19.13:80/617.stream/index.m3u8
 #EXTINF:-1,Star Jalsha
-http://208.86.19.21:80/618.stream/index.m3u8
+http://208.86.19.13:80/618.stream/index.m3u8
 #EXTINF:-1,Colors Bangla
-http://208.86.19.21:80/616.stream/index.m3u8
+http://208.86.19.13:80/616.stream/index.m3u8
 #EXTINF:-1,Zee Bangla
-http://208.86.19.21:80/615.stream/index.m3u8
+http://208.86.19.13:80/615.stream/index.m3u8
 #EXTINF:-1 ,SPORTS 2
 http://103.159.4.38:9090/SPORTS-2/index.m3u8
 #EXTINF:-1 ,SPORTS- 6
