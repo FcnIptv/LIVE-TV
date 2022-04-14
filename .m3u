@@ -1,7 +1,7 @@
 #EXTM3U FCNIPTV
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58MS5g.jpg" group-title="Sports",Sports LIVE 1
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58MS5g.jpg" group-title="Live Sports",Sports LIVE 1
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_720&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58ME6R.png" group-title="Sports",Sports LIVE 2
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58ME6R.png" group-title="Live Sports",Sports LIVE 2
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_720&user=748e920475c8167decb7565f975b6468
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV
@@ -139,7 +139,7 @@ http://208.86.19.13:81/701.stream/index.m3u8
 http://208.86.19.13:81/722.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jlWbKAv.png" group-title="Hindi Movie", Star Gold Select HD
 http://208.86.19.13:81/709.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movie",Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
@@ -174,11 +174,11 @@ http://208.86.19.13:81/707.stream/index.m3u8
 http://208.86.19.13:81/907.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
-http://208.86.19.13:80/522.stream/index.m3u8
+http://208.86.19.16:81/522.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILW11oz.png" group-title="MUSIC", B4U Music
 http://208.86.19.13:81/733.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC",Ary Music
-http://208.86.19.13:80/824.stream/index.m3u8
+http://208.86.19.13:81/824.stream/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
