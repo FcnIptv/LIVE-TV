@@ -7,8 +7,20 @@ https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_720&use
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV
 http://208.86.19.13:81/627.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FXoKFOA.png" group-title="BD SPORTS",T sports HD
+#EXTINF:-1 tvg-logo="https://imgur.com/oNT3BuT.png" group-title="LIVE SPORTS",Gazi TV HD
+http://12.1.1.1:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PhIvHMA.png" group-title="LIVE SPORTS",Tsports HD
+http://12.1.1.1:8082/Local-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lMBbiZG.png" group-title="LIVE SPORTS",Gazi TV HD
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7QI3Fxh.png" group-title="LIVE SPORTS",Tsports HD
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JUmOjWS.png" group-title="LIVE SPORTS",LIVE TV HD
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/enHjdS6.png" group-title="LIVE SPORTS",Tsports HD
 http://208.86.19.13:81/905.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/95LLCWW.png" group-title="LIVE SPORTS",WILLOW HD
+http://208.86.19.13:81/731.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="BD BANGLA",Channel 9 HD
 http://208.86.19.13:81/608.stream/index.m3u8
@@ -174,7 +186,7 @@ http://208.86.19.13:81/707.stream/index.m3u8
 http://208.86.19.13:81/907.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
-http://208.86.19.16:81/522.stream/index.m3u8
+http://str24.l9574.com/522.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILW11oz.png" group-title="MUSIC", B4U Music
 http://208.86.19.13:81/733.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC",Ary Music
